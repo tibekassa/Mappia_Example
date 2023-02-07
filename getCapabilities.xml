@@ -177,7 +177,7 @@
 				<Title>chirps_rf_rc_at_200m_interval_10classes</Title>
 				<Abstract>GH:chirps_rf_rc_at_200m_interval_10classes ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸//github.com/tibekassa/Mappia_Example/releases/download/Map_Download/chirps_rf_rc_at_200m_interval_10classes.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸tif˸˸˸//github.com/tibekassa/Mappia_Example/releases/download/Map_Download/chirps_rf_rc_at_200m_interval_10classes.zip˸notListing˸˸maxZoom˸10</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="32.824440481727315" miny="3.332749704083426" maxx="48.19461499301233" maxy="14.921016869225253"></LatLonBoundingBox>
